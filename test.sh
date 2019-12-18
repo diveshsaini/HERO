@@ -1,3 +1,4 @@
 #! /bin/bash
 
-echo "this is bash program"
+echo "please enter a value "
+read value
