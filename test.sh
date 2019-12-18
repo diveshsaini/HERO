@@ -1,4 +1,3 @@
 #! /bin/bash
 
-echo "please enter a value "
-read value
+echo "script testing by jenkins"
