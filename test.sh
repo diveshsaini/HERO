@@ -2,4 +2,4 @@
 
 echo "script testing by jenkins"
 
-echo "testing of webhook"
+echo "testing of webhook project"
